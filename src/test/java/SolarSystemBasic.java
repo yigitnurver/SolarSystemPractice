@@ -14,8 +14,14 @@ public class SolarSystemBasic {
         Xros.color="green";
         Xros.Radius="321321321 miles";
 
+
         planet11 zoro=new planet11();
         zoro.color="pink";
         zoro.size="33213321321miles";
+
+        planet22 Dros=new planet22();
+        Dros.color="black";
+        Dros.radius="321321321";
+
     }
 }
